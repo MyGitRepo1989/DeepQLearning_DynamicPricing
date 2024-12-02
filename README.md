@@ -1,3 +1,7 @@
+<h2> AirBnB Dynamic Weekly Pricing using Deep -Rl </h2>
+
+
+
 <h2>Use Cases for Reinforcement Learning Applications in E-commerce</h2>
 
 <ul>
