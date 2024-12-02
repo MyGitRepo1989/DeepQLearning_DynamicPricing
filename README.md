@@ -1,7 +1,7 @@
 <h2> AirBnB Dynamic Weekly Pricing using Deep -RL </h2>
-<img src="AirBnB_Example.png", width=70% >
+<img src="AirBnB_Example.png", width=90% >
 <p> Rewards Results</p>
-<img src="Rewards_plot.png", width=70% >
+<img src="Rewards_plot.png", width=90% >
 
 <h2>Use Cases for Reinforcement Learning Applications in E-commerce</h2>
 
